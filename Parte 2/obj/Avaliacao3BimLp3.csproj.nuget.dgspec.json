@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\magalu516\\Desktop\\Avaliacao3BimLp3\\Avaliacao3BimLp3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\magalu516\\Desktop\\Avaliacao3BimLp3\\Avaliacao3BimLp3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\magalu516\\Desktop\\Avaliacao3BimLp3\\Avaliacao3BimLp3.csproj",
+        "projectName": "Avaliacao3BimLp3",
+        "projectPath": "C:\\Users\\magalu516\\Desktop\\Avaliacao3BimLp3\\Avaliacao3BimLp3.csproj",
+        "packagesPath": "C:\\Users\\magalu516\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\magalu516\\Desktop\\Avaliacao3BimLp3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\magalu516\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

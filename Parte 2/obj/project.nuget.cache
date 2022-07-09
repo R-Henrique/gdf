@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "vCn+KlLngcZC8YWm45Cb3PqH7YE3XuD+/Rf+8euIvWOWKWBhiR0qL2e7eDvH2tBlgRBJ/7W1KTYrZ7D4lJCwVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\magalu516\\Desktop\\Avaliacao3BimLp3\\Avaliacao3BimLp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\magalu516\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\magalu516\\.nuget\\packages\\microsoft.data.sqlite\\6.0.6\\microsoft.data.sqlite.6.0.6.nupkg.sha512",
+    "C:\\Users\\magalu516\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.6\\microsoft.data.sqlite.core.6.0.6.nupkg.sha512",
+    "C:\\Users\\magalu516\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\magalu516\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\magalu516\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\magalu516\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\magalu516\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
